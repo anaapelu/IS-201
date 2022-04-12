@@ -1,0 +1,32 @@
+.common {
+position: absolute; 
+}
+
+.header{
+top:5px;
+left:5px;
+right:5px;
+height:100px;
+z-index:2;
+color:black;
+font-weight:bold;
+text-align:right;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.mainbody{
+top: 114px;
+bottom: 64px;
+left: 20px;
+right: 20px;
+padding-right: 5px;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: grey;
+    text-align: center;
+}
